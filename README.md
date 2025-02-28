@@ -8,7 +8,7 @@ Super Tic Tac Toe is an extreme version of the regular Tic Tac Toe game. I progr
 
 Clone the project
 ```
-git clone https://github.com/Akil-Adnan/Flappy-Bird.git
+git clone https://github.com/Akil-Adnan/Super-Tic-Tac-Toe.git
 ```
 
 Go to project directory
